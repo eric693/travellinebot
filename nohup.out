@@ -164,3 +164,4 @@ Auto-replied for keyword: 天氣
 Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961745416847446","quoteToken":"BQbzIxd-P3VTeOWnISHT2iG29qTvTUZO0luQtqhPBAMoAs00ziyipfCKb--7xZ8VfshEX9VTQogtOH7U5bc-_6gPz-1P4O6kV0EUeO-_tBF0OFw1eeBJaU9UnUT4f89nxYCQx8BiWZRWr-lIHs8-MQ","text":"這怎麼觸發了退費ＸＤ"},"webhookEventId":"01JXZ4XW5J6FTY7FYGF0F5XRHW","deliveryContext":{"isRedelivery":false},"timestamp":1750170791927,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"149976654d114e9c81cda32de37a2c4c","mode":"active"}]}127.0.0.1 - - [17/Jun/2025 22:33:12] "POST /callback HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jun/2025 22:35:14] "POST /callback HTTP/1.1" 200 -
 127.0.0.1 - - [17/Jun/2025 22:37:30] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:43:03] "POST /callback HTTP/1.1" 200 -
