@@ -1,0 +1,166 @@
+ERROR:  authentication failed: Your account is limited to 1 simultaneous ngrok agent sessions.
+ERROR:  You can run multiple simultaneous tunnels from a single agent session by defining the tunnels in your agent configuration file and starting them with the command `ngrok start --all`.
+ERROR:  Read more about the agent configuration file: https://ngrok.com/docs/secure-tunnels/ngrok-agent/reference/config
+ERROR:  You can view your current agent sessions in the dashboard:
+ERROR:  https://dashboard.ngrok.com/agents
+ERROR:  
+ERROR:  ERR_NGROK_108
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_108
+ERROR:  
+ERROR:  authentication failed: Your account is limited to 1 simultaneous ngrok agent sessions.
+ERROR:  You can run multiple simultaneous tunnels from a single agent session by defining the tunnels in your agent configuration file and starting them with the command `ngrok start --all`.
+ERROR:  Read more about the agent configuration file: https://ngrok.com/docs/secure-tunnels/ngrok-agent/reference/config
+ERROR:  You can view your current agent sessions in the dashboard:
+ERROR:  https://dashboard.ngrok.com/agents
+ERROR:  
+ERROR:  ERR_NGROK_108
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_108
+ERROR:  
+ERROR:  authentication failed: Your account is limited to 1 simultaneous ngrok agent sessions.
+ERROR:  You can run multiple simultaneous tunnels from a single agent session by defining the tunnels in your agent configuration file and starting them with the command `ngrok start --all`.
+ERROR:  Read more about the agent configuration file: https://ngrok.com/docs/secure-tunnels/ngrok-agent/reference/config
+ERROR:  You can view your current agent sessions in the dashboard:
+ERROR:  https://dashboard.ngrok.com/agents
+ERROR:  
+ERROR:  ERR_NGROK_108
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_108
+ERROR:  
+/home/eric/cebubu/travellinebot/travellinebot.py:12: LineBotSdkDeprecatedIn30: Call to deprecated class LineBotApi. (Use v3 class; linebot.v3.<feature>. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  line_bot_api = LineBotApi(LINE_CHANNEL_ACCESS_TOKEN)
+/home/eric/cebubu/travellinebot/travellinebot.py:13: LineBotSdkDeprecatedIn30: Call to deprecated class WebhookHandler. (Use 'from linebot.v3.webhook import WebhookHandler' instead. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  handler = WebhookHandler(LINE_CHANNEL_SECRET)
+ * Serving Flask app 'travellinebot'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.33.7.30:5001
+Press CTRL+C to quit
+/home/eric/cebubu/travellinebot/travellinebot.py:14: LineBotSdkDeprecatedIn30: Call to deprecated class LineBotApi. (Use v3 class; linebot.v3.<feature>. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  line_bot_api = LineBotApi(LINE_CHANNEL_ACCESS_TOKEN)
+/home/eric/cebubu/travellinebot/travellinebot.py:15: LineBotSdkDeprecatedIn30: Call to deprecated class WebhookHandler. (Use 'from linebot.v3.webhook import WebhookHandler' instead. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  handler = WebhookHandler(LINE_CHANNEL_SECRET)
+ * Serving Flask app 'travellinebot'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://10.33.7.30:5001
+Press CTRL+C to quit
+ERROR:  authentication failed: Your account is limited to 1 simultaneous ngrok agent sessions.
+ERROR:  You can run multiple simultaneous tunnels from a single agent session by defining the tunnels in your agent configuration file and starting them with the command `ngrok start --all`.
+ERROR:  Read more about the agent configuration file: https://ngrok.com/docs/secure-tunnels/ngrok-agent/reference/config
+ERROR:  You can view your current agent sessions in the dashboard:
+ERROR:  https://dashboard.ngrok.com/agents
+ERROR:  
+ERROR:  ERR_NGROK_108
+ERROR:  https://ngrok.com/docs/errors/err_ngrok_108
+ERROR:  
+127.0.0.1 - - [17/Jun/2025 22:06:44] "POST /callback HTTP/1.1" 200 -
+/home/eric/cebubu/travellinebot/travellinebot.py:1196: LineBotSdkDeprecatedIn30: Call to deprecated method reply_message. (Use 'from linebot.v3.messaging import MessagingApi' and 'MessagingApi(...).reply_message(...)' instead. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  line_bot_api.reply_message(
+127.0.0.1 - - [17/Jun/2025 22:08:56] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:10:37] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:24:05] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:24:18] "POST /callback HTTP/1.1" 200 -
+/home/eric/cebubu/travellinebot/travellinebot.py:1168: LineBotSdkDeprecatedIn30: Call to deprecated method reply_message. (Use 'from linebot.v3.messaging import MessagingApi' and 'MessagingApi(...).reply_message(...)' instead. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  line_bot_api.reply_message(
+127.0.0.1 - - [17/Jun/2025 22:25:17] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:25:54] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:26:07] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:26:15] "POST /callback HTTP/1.1" 200 -
+/home/eric/cebubu/travellinebot/travellinebot.py:1158: LineBotSdkDeprecatedIn30: Call to deprecated method reply_message. (Use 'from linebot.v3.messaging import MessagingApi' and 'MessagingApi(...).reply_message(...)' instead. See https://github.com/line/line-bot-sdk-python/blob/master/README.rst for more details.) -- Deprecated since version 3.0.0.
+  line_bot_api.reply_message(
+127.0.0.1 - - [17/Jun/2025 22:27:13] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:27:23] "POST /callback HTTP/1.1" 200 -
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[]}
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565959301479530859","quoteToken":"9KGz7JyL8pWOmVz_Ykan45sjjXG01mNSB_yL9YqPhl-NklppUzPONo8IlZimfWGDBugYG-cl9_xO2FnorJ8STDxf7F4SNidb2luitENH9UAoOnNmLYd204jzvJhuCQS8fD56o4F3PouUeduHkU-dRg","text":"行程參考"},"webhookEventId":"01JXZ3HE0CG587P8PZHXPAZ586","deliveryContext":{"isRedelivery":false},"timestamp":1750169335319,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"53ec06ae78cd46ceabb56fd37e5fc6fb","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['asking_trip']
+AI response sent for intents: ['asking_trip']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565959472104341611","quotedMessageId":"565955757041254639","quoteToken":"vy5VVlD0HI-5w4tlG2n8WGMqQPgD59g-XNQnNmD_eCqEntDr5xGHfHUcOjaeqsXlPS4iXraWoKMkgZY1q2nf-TQ4ySH2sbNt9inefiAbHIGD9RYnqlG21iZFRne0_nBedwXuSPDtZ9kmvye4uQ1CLw","text":"因為現在雲端還有流量都是我們團隊先支付"},"webhookEventId":"01JXZ3MHDCPCFNXSF53J2170B4","deliveryContext":{"isRedelivery":false},"timestamp":1750169437104,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"3b57c03cb9a44d8b9f515d7f60bacae9","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565960826931642679","quoteToken":"P8ppalIn6iWIe47rH6NHKr7h9fKYiP3XFeVD55JlpFksPCLCHh7vo7RroI_gYMJlgDmTRk_Rf3GOEFqccFXVcAgKhQJsMEefR481nmkV37icSodEaEyg75bsifZebLL4JI9_s0mO1e5eqmwtiE8Lmg","text":"我要玩水"},"webhookEventId":"01JXZ4D5ZM5H13WAEN063NH7K0","deliveryContext":{"isRedelivery":false},"timestamp":1750170244600,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"d34038f89696409bb867a8887d94904c","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['asking_trip']
+AI response sent for intents: ['asking_trip']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565960848188113322","quoteToken":"LSvhSeKh1xi8eFbB1UUHvNgQ--4o8SldkX75qBD6cG6d6lHUp5ZQMpxkXTREAeN9kGS_EKbU57TsW4YayKSHAEqqH1lI8Dl_YW39VxsW7BNk6HHErk0uNscFapr6_Z1J_m51qNfrU7pX5CIN3tRlpw","text":"看鯨鯊"},"webhookEventId":"01JXZ4DJ7HHGPZQ938YT065GP7","deliveryContext":{"isRedelivery":false},"timestamp":1750170257140,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"d03ec8e3b3b347dc8ab64536875ab30a","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['whale_shark']
+AI response sent for intents: ['whale_shark']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565960948482048089","quoteToken":"AtlC-38HQ38MKvcSoAOBnH2utkO6epyIoFHLsjbvFxk6hAg8w02OCCMHwjsmZQpxvA3YwSQ8V-Xs3ExHYwHhCfoewhg2MsvcpkPVCBT_xAfGnxj0qNl3HbGH2_LYzlTVsxR_h4SOKmedc6Wo84zxvQ","text":"有沒有什麼拼團行程"},"webhookEventId":"01JXZ4FCDDYCM9D41A488TK03M","deliveryContext":{"isRedelivery":false},"timestamp":1750170317103,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"9ee1d55e2a394e28b3cf5580a232494b","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Auto-replied for keyword: 拼團
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961009501044942","quoteToken":"3rNPeOpHMJa6foMNHOEvOsOVL8cXq9iqqME097xJW0Anmv60PiEgeDykyUb7gfnlhbBc1bdgE1rr7ml69GyExvoahRo1WNYj-KILcx1TDzJxSQbs1y8Z0UEqRcYj61fKy2C9DjPweUn5F6fq8k8RqA","text":"你好"},"webhookEventId":"01JXZ4GG44R1NYH19DVHBSTQA0","deliveryContext":{"isRedelivery":false},"timestamp":1750170353288,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"cb0e518c64d34ce4be71d9639b571ffe","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['greeting']
+AI response sent for intents: ['greeting']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961031798226948","quoteToken":"4LW_W2J7oIwlhnXnIFTwrqsgyORDDxcP2D4dcz07PXTydkgmXDQVFeziI0Wc5rZFjA3PvuKkswscLKI15j-t5YcBLuntj2AWQPXAcvzZkHL36nHFqC3fJzT9Qnc7ze777eqUYjeT42Kf5nZTrOi3IQ","text":"我想去"},"webhookEventId":"01JXZ4GWVAT0160W03B4EEJEHP","deliveryContext":{"isRedelivery":false},"timestamp":1750170366637,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"fac655d783b04e84ac34e541ef6bf218","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961045907603476","quoteToken":"5pIFfAZw5ZJXsL4wr-6If86wLp18addvwPwpPipRSRhmNuz4JEe8O7EegwV5b4jy4j9zjUVSBI2_ifZ3FE-aykCE2HlcpLnH3IEnJAAfhCzpQPELRT-OBGhFAljQQHhaiHdiKcAH7n8F8LwCz9Lf4w","text":"海洋生物"},"webhookEventId":"01JXZ4H58HXPBM91Q3NM87D67F","deliveryContext":{"isRedelivery":false},"timestamp":1750170375140,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"37e9463fb8874d80af769ae45445cf17","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961142309224692","quoteToken":"iPItMRElEMrodTRHsLI-NjJARxa99AeFwP7wh5MynRX_w0DAFT2ADcMUAzmeM_PQpGQ6LXRu5MEpP_5ZKoNkaynZ5R7F95C-x2NgjNZ3AEuM9M-0FXT_xG6dvfiKSYyBcIIpQI_MTWOWisemwNevNg","text":"S8 "},"webhookEventId":"01JXZ4JXD5TY56FK4JV75V5FEA","deliveryContext":{"isRedelivery":false},"timestamp":1750170432625,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"2d5ae25a90fd45fdb838c6f4dd9060ab","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Auto-replied for exact itinerary code: S8
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961160881602563","quoteToken":"KO4GJ7EWuVrg5p5Zla2e8sGqa4uiGpI57LzQpwxxeg19ARlHp4kH9AVZ3FUJw_xBZqIG9HuR3qh7Cc9jGsR8u9YJA-sena05HelQ_-5IZCcmdINrZ8CAL5O1qzxx6lt3imjnV7uZH66AB4vplFpUrw","text":"我想詢問行程"},"webhookEventId":"01JXZ4K7VMFTW2A1GMT35MQFAD","deliveryContext":{"isRedelivery":false},"timestamp":1750170443596,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"Uc51fa14adcf00538317e1075dc800a46"},"replyToken":"0902f7de59804701ba0fe860b6f7a039","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['asking_trip']
+AI response sent for intents: ['asking_trip']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961184990724442","quoteToken":"UtKqby6W_CfltincVsAuvzMOlIbB9A0Cnzg26ajXVOHA_JHUaa181jGX8TzdieXxJJbhYN5aA0TEEn007Y7_lZ3-KwZXyJwQWR-1XmWR_hJCij1PZcgOekfecoFl52DL-MzG0VPdkjEmQa1J0aByVQ","text":"菲律賓有什麼好玩"},"webhookEventId":"01JXZ4KP1RCMRKSKHNVC7P1VZP","deliveryContext":{"isRedelivery":false},"timestamp":1750170458078,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"Uc51fa14adcf00538317e1075dc800a46"},"replyToken":"707c31e910fc47c49ca8edbbce618523","mode":"active"}]}127.0.0.1 - - [17/Jun/2025 22:27:38] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:29:25] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:29:29] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:29:33] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:30:37] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:30:52] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:30:54] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:31:21] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:31:50] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:32:57] "POST /callback HTTP/1.1" 200 -
+
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['asking_trip']
+AI response sent for intents: ['asking_trip']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961363651297894","quoteToken":"NobipiGREK7_3ycsSlHzDipufuN0uBvpAQBJp7KtBTySi9XPvOr54FY26p-FERllnsQf6OPCMSflAO1gDR-J5ZNlwiKjBbplr3qEjxbN4gRm8OKJhK9AbMBxYaG1eGN7CPUoNpZ_VcVu4MAOKA528w","text":"可以看海龜麻"},"webhookEventId":"01JXZ4PYAWEKQYPY9H6KE8KCHX","deliveryContext":{"isRedelivery":false},"timestamp":1750170564447,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"4fd10a5b1f284dbf89bab4611950ca10","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961370311852560","quoteToken":"spKghTY7UmvMzUegkA8z9y7FfMIuFszCd1_oqQv_3ERHeMHMKl6d9k4zuUNPyc2NDG40GfLxHJkFPcNUZE4G8g7XhBDq9OGUViYM_eo1MWMHbGPiXrcqLVW_UBqBq4PuebjhY6ai0NLEp1cDILB72Q","text":"海龜"},"webhookEventId":"01JXZ4Q24VFBJR2JJAA7BRCDTV","deliveryContext":{"isRedelivery":false},"timestamp":1750170568352,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"e4e4c41f79ba4fc4a9a8bcdb288a74ca","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961378163589665","quoteToken":"Kojg3_FVoe4E5w-fQqVUNA-j6crt9gN4FQxdYYTVwREJC9t8D7_g-IFAXyLqwYzTSSX-iRoH85DUZIJq92nFRjEj6BkhC_WB7X5KrY8XzDvQY2T9T1WAXkjYF6q26CHuIUuMvbLiznYAuzJ-MKG1DA","text":"沙丁魚"},"webhookEventId":"01JXZ4Q693KNBW613K6Z35J381","deliveryContext":{"isRedelivery":false},"timestamp":1750170573033,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"01c2c01d2549423882767d1b86661135","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['sardines']
+AI response sent for intents: ['sardines']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961484380143974","quoteToken":"RTYRAUtxV881D__JksJKaTpGUgfjq4k5PU0leURVBzFxpgs4PzwJTmCsVY_Fc3IYzAIMiYPzc8cIqloqZ9VVRctXWKtqxLcCasPQv65eetz_R6y-PoFQw4WK9Uk7aYUhXvR452uAeB4F8XlZvahKzg","text":"海龜這個關鍵字\n\n幫我歸類到跟墨寶相關 以及 跟薄荷島兩日遊活動相關的活動"},"webhookEventId":"01JXZ4S4GKJE538385C122Y57Q","deliveryContext":{"isRedelivery":false},"timestamp":1750170636343,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"718c59b9586a4502b3de0b93bb78052a","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['sardines', 'two_day', 'island']
+AI response sent for intents: ['sardines', 'two_day', 'island']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961509629591673","quoteToken":"PpkDIvidI5ghTKrcPLfoyvbAVwKAy77UF4bH5s-DUC5o9kepSG7CQpjRAGKbi1nOLcjjJsBQNgqbuVLtwFBr8Amroju-mEbWmDi5V-zN62AqUXg0rZozr1AXzn4GMKanaYQE1hDJmrxsjai8UU6hqQ","text":"@洪培瑜Eric \n海龜這個關鍵字\n\n幫我歸類到跟墨寶相關 以及 跟薄荷島兩日遊活動相關的活動","mention":{"mentionees":[{"index":0,"length":8,"userId":"U1892ed55f7a3b2e9145f2f3e27384b42","type":"user","isSelf":false}]}},"webhookEventId":"01JXZ4SKCKHBB9XVDCBG51QGM5","deliveryContext":{"isRedelivery":false},"timestamp":1750170651543,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"a22ccd7b72e047ba8f4a13c4afd4487c","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: ['sardines', 'two_day', 'island']
+AI response sent for intents: ['sardines', 'two_day', 'island']
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961513975152778","quoteToken":"PaBqfguRYvweQS5wTWaAHoxA1do8eT6jpW5M16ffpBSMKlpTMbfvcng6mgXMCUXmSASopTC97kG8XPIEKvMt7HySz4_d_8sxiSCIioR82Zwsdxq3hEr9-Kp1Ia9AJ5CSAwzbCfg-hM6PFwfe8nxIDA","text":"海豚"},"webhookEventId":"01JXZ4SNGM5J4WM8DWRXEGXT4T","deliveryContext":{"isRedelivery":false},"timestamp":1750170653992,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"c9683c06c24c4f31a7cfe66d487dfa5f","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961559458185540","quotedMessageId":"565961509629591673","quoteToken":"NcYTEIh0SWfIyw2HOXIz3wklr9ogtxXaL8vTkfkeVVILV2EG7XJELUz8_KJ0gN5V2wT_Eq2H3zE3OTqePQUZmf6vFpxg887i8GrY5oMqZ4bEhQAC1kAYJq9pOGyQCij42Bj4UQ_Kqw7Cxx_QSTovbQ","text":"好的"},"webhookEventId":"01JXZ4TFSBC6SH9BYHG7JA2HE3","deliveryContext":{"isRedelivery":false},"timestamp":1750170681091,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"9a542219601643efa8a34b07d9798c88","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961607575503024","quoteToken":"dxn1FVMimwFs_0cpXXCMagWqqewJ3Y6YYswiuLXrgM3MKNOT5bdzQ1YBXxfWcsfs1fEIWaOgzVlpZxJeoTp4aAN6k2qYkTdXnrZo0HkTCAevJCC5XJljoiuiC04vFHMfjhj5bpRtJXT_UVGYoGA-lA","text":"想問一下你們現在所有需求有哪些～"},"webhookEventId":"01JXZ4VC4TK9J1P9WGRRJ8JB1Q","deliveryContext":{"isRedelivery":false},"timestamp":1750170709913,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U1892ed55f7a3b2e9145f2f3e27384b42"},"replyToken":"49e40035f69e412eaebf17e432617cd8","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Detected intents: []
+AI response sent for intents: []
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961719999365223","quoteToken":"fw7QLpscBQyve5PP9ygleLrzG6MQutXYtTMGDWlVYO18EqHTBijzr1QttFYl5A-q3Gw7AN6O8I8i46KWF4tJp-MysYNJHg1TRo8VX0vDlaRFDKchiKbf6JxMYt_65vJoMl2D3RHb9-tU5x_DcTPqPg","text":"跟海豚有關的關鍵字，幫我歸類到薄荷島兩日遊的行程\n\n並且補充說明：海豚在薄荷島兩日遊的行程，第二天的巴里卡薩跳島的過程中『有機率可以看到』但是不是100%唷，跟天氣、海況也都有關係～"},"webhookEventId":"01JXZ4XDP5G7FZHE24ECQKBVTT","deliveryContext":{"isRedelivery":false},"timestamp":1750170776778,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"ef4bca25ef264402bf298811c3d8e246","mode":"active"}]}
+Current Group ID: Cefc4e032cd5dcb70de2a28c4cef1cab6
+Auto-replied for keyword: 天氣
+Received webhook: {"destination":"Uacca1f2cd08b2f6fcb81626633866a04","events":[{"type":"message","message":{"type":"text","id":"565961745416847446","quoteToken":"BQbzIxd-P3VTeOWnISHT2iG29qTvTUZO0luQtqhPBAMoAs00ziyipfCKb--7xZ8VfshEX9VTQogtOH7U5bc-_6gPz-1P4O6kV0EUeO-_tBF0OFw1eeBJaU9UnUT4f89nxYCQx8BiWZRWr-lIHs8-MQ","text":"這怎麼觸發了退費ＸＤ"},"webhookEventId":"01JXZ4XW5J6FTY7FYGF0F5XRHW","deliveryContext":{"isRedelivery":false},"timestamp":1750170791927,"source":{"type":"group","groupId":"Cefc4e032cd5dcb70de2a28c4cef1cab6","userId":"U12f1b9b7cee79591cb3256a3d908003d"},"replyToken":"149976654d114e9c81cda32de37a2c4c","mode":"active"}]}127.0.0.1 - - [17/Jun/2025 22:33:12] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:35:14] "POST /callback HTTP/1.1" 200 -
+127.0.0.1 - - [17/Jun/2025 22:37:30] "POST /callback HTTP/1.1" 200 -
